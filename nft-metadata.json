@@ -1,16 +1,16 @@
 {
     "attributes": [
       {
-        "trait_type": "Breed",
-        "value": "Maltipoo"
+        "trait_type": "Hat",
+        "value": "Blue"
       },
       {
-        "trait_type": "Eye color",
-        "value": "Mocha"
+        "trait_type": "Bandaid",
+        "value": "Damage"
       }
     ],
-    "description": "The world's most adorable and sensitive pup.",
-    "image": "https://gateway.pinata.cloud/ipfs/QmWmvTJmJU3pozR9ZHFmQC2DNDwi2XJtf3QGyYiiagFSWb",
-    "name": "Ramses"
+    "description": "The world's most lamest cat.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdGfCy2JzXCqzRATwnjjw5aGyji3hQRZCEv9moJqK9GzQ",
+    "name": "Eddy"
   }
   
